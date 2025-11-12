@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TLV77333PDBVR")(type "KiCad")(uri "${KIPRJMOD}/lib/KiCADv6/2025-11-04_20-09-56.kicad_sym")(options "")(descr ""))
+  (lib (name "SGP40-D-R4")(type "KiCad")(uri "${KIPRJMOD}/lib/KiCADv6/SGP40-D-R4.kicad_sym")(options "")(descr ""))
+  (lib (name "ProjectCustom")(type "KiCad")(uri "${KIPRJMOD}/lib/KiCADv6/ProjectCustom.kicad_sym")(options "")(descr ""))
+)
