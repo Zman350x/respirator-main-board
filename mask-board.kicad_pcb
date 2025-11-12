@@ -1865,7 +1865,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f19d17f5-9b1d-4e39-92ab-cd2df3a510a3")
+			(uuid "72e1725c-7d78-4916-ba45-2676c3cbbe8b")
 		)
 		(fp_line
 			(start -0.8 -1)
@@ -1875,7 +1875,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "94c874f2-5bad-4f37-aaf8-e225d940fa27")
+			(uuid "a243675c-e394-4f09-a7de-0b8a2a29bebf")
 		)
 		(fp_circle
 			(center 1.45 1)
@@ -1886,7 +1886,7 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(uuid "74002ae5-7f4e-4c51-a041-96a43e937c38")
+			(uuid "f9a40f87-aabb-4bf3-b8dd-4a982cd330bb")
 		)
 		(fp_rect
 			(start -1.6 -1.1)
@@ -1897,7 +1897,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "ec0af8cd-7e93-4014-a56c-409a877ff71a")
+			(uuid "54ccbc1d-c062-42fe-8b94-2680c4a06821")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -0.8 2 180)
@@ -1952,6 +1952,17 @@
 			(uuid "146f4753-90ce-43c0-b4e2-39825510358e")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/lib/LED_T2133BGR.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
@@ -9454,7 +9465,7 @@
 			(net 6 "GND")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "48d008ed-f2bc-470c-9aae-1720e805b618")
+			(uuid "0605cd3e-b86d-46ef-8e0e-5d92a67a3f66")
 		)
 		(pad "2" thru_hole circle
 			(at 0 4.5 270)
@@ -9476,7 +9487,7 @@
 			(net 40 "Net-(U1-PA3)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "b9f25044-07cc-4ca9-8066-497d943b404f")
+			(uuid "bdf667c2-ae5e-4978-bdbf-701c2818ebd5")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.step"
