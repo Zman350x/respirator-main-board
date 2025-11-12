@@ -8706,7 +8706,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:T2133BGR"
+		(property "Footprint" "footprints:LED_T2133BGR"
 			(at 252.73 140.97 0)
 			(effects
 				(font
