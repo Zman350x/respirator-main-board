@@ -52,7 +52,7 @@
 	(attr smd)
 	(fp_poly
 		(pts
-			(xy -0.725 0.95) (xy -0.725 -0.6) (xy -0.375 -0.95) (xy 0.725 -0.95) (xy 0.725 0.95)
+			(xy -0.625 0.85) (xy -0.625 -0.55) (xy -0.325 -0.85) (xy 0.625 -0.85) (xy 0.625 0.85)
 		)
 		(stroke
 			(width 0.01)
@@ -200,42 +200,36 @@
 		(at -1.15 -0.8)
 		(size 0.55 0.4)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(solder_mask_margin 0.102)
 		(uuid "ed0a6366-99e5-4738-9eea-3f8d1756aaeb")
 	)
 	(pad "2" smd rect
 		(at -1.15 0)
 		(size 0.55 0.4)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(solder_mask_margin 0.102)
 		(uuid "3049e90b-66e6-4e6f-9f01-23179cb1a865")
 	)
 	(pad "3" smd rect
 		(at -1.15 0.8)
 		(size 0.55 0.4)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(solder_mask_margin 0.102)
 		(uuid "75e1b967-c8d4-4458-87f5-512d62078052")
 	)
 	(pad "4" smd rect
 		(at 1.15 0.8)
 		(size 0.55 0.4)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(solder_mask_margin 0.102)
 		(uuid "c3521f5f-7a26-4997-9f7e-307e950e42df")
 	)
 	(pad "5" smd rect
 		(at 1.15 0)
 		(size 0.55 0.4)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(solder_mask_margin 0.102)
 		(uuid "d9f69a75-07f9-4745-ba4a-1f68d1015ff8")
 	)
 	(pad "6" smd rect
 		(at 1.15 -0.8)
 		(size 0.55 0.4)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(solder_mask_margin 0.102)
 		(uuid "fd214941-3d9c-4e43-84ca-cec435f1cc2f")
 	)
 	(pad "7" smd custom
