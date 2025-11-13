@@ -6190,7 +6190,7 @@
 	)
 	(global_label "BUZZER"
 		(shape input)
-		(at 160.02 99.06 0)
+		(at 160.02 91.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6200,7 +6200,7 @@
 		)
 		(uuid "2adba03c-aa03-452c-a10b-fe34537e5b42")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 170.4437 99.06 0)
+			(at 170.4437 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6322,7 +6322,7 @@
 	)
 	(global_label "LED_BLUE"
 		(shape input)
-		(at 160.02 91.44 0)
+		(at 160.02 93.98 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6332,7 +6332,7 @@
 		)
 		(uuid "67af79b9-d838-4149-8c81-000947b6157f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 172.1975 91.44 0)
+			(at 172.1975 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6388,7 +6388,7 @@
 	)
 	(global_label "LED_RED"
 		(shape input)
-		(at 160.02 96.52 0)
+		(at 160.02 99.06 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6398,7 +6398,7 @@
 		)
 		(uuid "81d3afdd-70dc-4c31-8b63-17afa9eef05e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 171.1089 96.52 0)
+			(at 171.1089 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6542,7 +6542,7 @@
 	)
 	(global_label "LED_GREEN"
 		(shape input)
-		(at 160.02 93.98 0)
+		(at 160.02 96.52 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6552,7 +6552,7 @@
 		)
 		(uuid "a8b1eddd-d7db-414a-9334-504ffa6b37c6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 173.5884 93.98 0)
+			(at 173.5884 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
